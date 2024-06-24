@@ -5,7 +5,6 @@
 42seoul에서 공부하고 있는 jaemjeon이라고 합니다 반가워용
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodyKat&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logoColor=white"/>
 
 ### language
 
